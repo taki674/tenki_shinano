@@ -6,5 +6,5 @@
 # 使用技術
 ・Python  
 ・Flask  
-・Heroku
+・Heroku  
 ・LINE developers
